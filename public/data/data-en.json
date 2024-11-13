@@ -1,0 +1,54 @@
+{
+  "headerContent": {
+    "title": "DAVOZ Anastasia",
+    "subtitle": "Apprentice Developer",
+    "contact": "Contact",
+    "about": "About Me",
+    "projects": "My Projects",
+    "skills": "Skills",
+    "education": "Education",
+    "toggleLanguage": "Français",
+    "aboutContent": [
+      "Fascinated by the digital universe and its infinite possibilities, I decided to embark on this path in 2021.",
+      "With a creative nature, my experience as a fashion designer has allowed me to develop adaptability and client needs management, valuable assets in many fields. I am looking for my first work-study or internship experience to progress in this sector.",
+      "I am still seeking my specialization, but I am convinced that my passion for technologies, whatever they may be, will help me achieve my goal of becoming a digital expert."
+    ]
+  },
+
+  "projectsContent": [
+    {
+      "title": "Dev-js",
+      "tech": "Technologies used: React, Next.js, TypeScript, Prisma, Zod, Server Actions, Next Auth, Tailwind CSS, Shadcn-ui, Stripe",
+      "link": "Project link: ",
+      "description": "This collaborative project, conducted with a self-taught partner, involves developing an accessible e-learning platform. The goal is to strengthen our technical skills while providing support to accompany others in their learning journey. We are preparing tutorial videos as well as fun exercises."
+    },
+    {
+      "title": "Memory Game",
+      "tech": "Technologies used: React.js, Node.js, MySQL",
+      "link": "Project link: ",
+      "description": "This memory game, developed entirely for my exam, invites users to match pairs of cards. I designed this project from A to Z, managing the game logic, front-end design, and database integration. This experience strengthened my skills in interactive application development and allowed me to apply various modern technologies."
+    }
+  ],
+
+  "educationContent": [
+    {
+      "title": "Full-Stack Web Development Diploma",
+      "school": "3W Academy | 2024"
+    },
+    {
+      "title": "Mobile Web Development Diploma",
+      "school": "Study | 2024"
+    }
+  ],
+
+  "skillsContent": [
+    "JavaScript",
+    "React",
+    "Next.js",
+    "Node.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "Git",
+    "RESTful APIs"
+  ]
+}

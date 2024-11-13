@@ -1,0 +1,53 @@
+{
+  "headerContent": {
+    "title": "DAVOZ Anastasia",
+    "subtitle": "Apprentie développeur",
+    "contact": "Coordonnées",
+    "about": "À propos de moi",
+    "projects": "Mes Projets",
+    "skills": "Compétences",
+    "education": "Formation",
+    "toggleLanguage": "English",
+    "aboutContent": [
+      "Fasciné par l'univers numérique et ses possibilités infinies, j'ai décidé depuis 2021 de me lancer dans cette voie.",
+      "De nature créative, mon expérience de styliste modéliste m'a permis de développer capacité d'adaptation et une gestion des besoins clients, des atouts précieux dans de nombreux domaines. Je suis à la recherche d'une première expérience en alternance ou stage pour progresser dans ce secteur.",
+      "Je cherche encore ma spécialisation, mais je suis convaincu que ma passion pour les technologies, quelles qu'elles soient, m'aidera à atteindre mon objectif de devenir un expert du numérique."
+    ]
+  },
+  "projectsContent": [
+    {
+      "title": "Dev-js",
+      "tech": "Technologies utilisées : React, Next.js, TypeScript, Prisma, Zod, Server Actions, Next Auth, Tailwind CSS, Shadcn-ui, Stripe",
+      "link": "Lien du projet : ",
+      "description": "Ce projet collaboratif, mené avec un partenaire autodidacte, consiste à développer une plateforme d'e-learning accessible à tous. L'objectif est de renforcer nos compétences techniques tout en proposant un support pour accompagner les autres dans leur parcours d'apprentissage. Nous préparons des vidéos tuto ainsi que des exercices ludiques."
+    },
+    {
+      "title": "Memory Game",
+      "tech": "Technologies utilisées : React.js, Node.js, MySQL",
+      "link": "Lien du projet : ",
+      "description": "Ce jeu de mémoire, développé intégralement pour mon examen, invite les utilisateurs à associer des paires de cartes. J'ai conçu ce projet de A à Z, en gérant la logique de jeu, la conception front-end, et l'intégration avec une base de données. Cette expérience a renforcé mes compétences en développement d'applications interactives et m'a permis d'appliquer diverses technologies modernes."
+    }
+  ],
+
+  "educationContent": [
+    {
+      "title": "Diplôme en Développement Web Full-Stack",
+      "school": "3W Academy | 2024"
+    },
+    {
+      "title": "Diplôme en Développement Web Mobile",
+      "school": "Study | 2024"
+    }
+  ],
+
+  "skillsContent": [
+    "JavaScript",
+    "React",
+    "Next.js",
+    "Node.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "Git",
+    "RESTful APIs"
+  ]
+}
