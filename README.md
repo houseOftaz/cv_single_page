@@ -1,9 +1,7 @@
-# 💼 Mon CV Single Page en Neumorphisme
+# 💼 Mon CV en Neumorphisme, passion design du moment !
 
-> **Un CV interactif et moderne qui allie design et technologie pour refléter mon parcours en développement web.**
-
-## 🖌️ À propos du Projet
-Ce CV a été conçu pour offrir une **expérience utilisateur élégante et immersive**, avec une interface en **neumorphisme** qui joue sur les ombres et les reliefs. Chaque section est soigneusement pensée pour attirer l'œil tout en restant minimaliste.
+## 🖌️ À propos
+J'ai développé ce projet pour offrir une **expérience utilisateur élégante**, avec une interface en **neumorphisme** qui joue sur les ombres et les reliefs. Chaque section est soigneusement pensée pour attirer l'œil tout en restant minimaliste.
 
 ---
 
@@ -17,7 +15,7 @@ Ce CV a été conçu pour offrir une **expérience utilisateur élégante et imm
 ---
 
 ## ✨ Fonctionnalités
-- 🎯 **Sections bien structurées** : Projets, compétences, et formations pour une navigation intuitive.
+- 🎯 **Sections** : Projets, compétences, et formations pour une navigation intuitive.
 - 📱 **Responsive Design** : Optimisé pour les écrans mobiles et desktop.
 - 🌈 **Design Neumorphique** : Des éléments en relief pour une esthétique épurée et contemporaine.
 
@@ -25,8 +23,7 @@ Ce CV a été conçu pour offrir une **expérience utilisateur élégante et imm
 
 ## 📂 Aperçu Visuel
 Envie d’un aperçu ? Voici un exemple de ce que vous trouverez dans ce CV single-page :
-
-![Aperçu visuel de la page CV](https://user-images.githubusercontent.com/placeholder-image.png) <!-- Remplacez ce lien par une image d’aperçu si possible -->
+![image](https://github.com/user-attachments/assets/8d1ab9aa-d484-492c-b7a8-c6c3a61d7944)
 
 ---
 
@@ -37,10 +34,10 @@ Curieux de découvrir mon parcours et mes compétences dans un format unique ? R
 ---
 
 ### 🌱 Un CV qui me ressemble
-Ce CV n’est pas qu’une simple page : c’est un **exercice de style et de technologie**. Il représente mes compétences en **développement front-end** et en **design UI/UX** et met en avant mon intérêt pour les interfaces modernes.
+Ce CV n’est pas qu’une simple page : c’est un **exercice de style et de technologie**. Il représente mes compétences en **développement front-end** et en **design UI/UX** et met en avant mon intérêt pour les interfaces modernes épurées.
 
 ---
 
 ## 💡 Contactez-moi
 Envie de discuter ou de collaborer ? N’hésitez pas à me contacter !  
-[📧 sdevweb7@exemple.com](mailto:sdevweb7@exemple.com) | [🌐 LinkedIn](https://linkedin.com/in/sdevweb7)
+[📧 oftaz.code@gmail.com] | [🌐 LinkedIn](https://www.linkedin.com/in/anastasia-davoz/)
