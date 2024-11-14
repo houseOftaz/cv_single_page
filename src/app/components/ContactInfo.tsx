@@ -21,25 +21,23 @@ export default function ContactInfo({ title }: ContactInfoProps) {
         <p className="flex items-center">
           <FaEnvelope className="mr-2" /> oftaz.code@gmail.com
         </p>
-        <div className="flex items-center justify-between">
-          <p className="flex items-center">
-            <FaPhone className="mr-2" /> +33 6 50 17 47 72
-          </p>
-          <Link
-            href="/letter.pdf"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="flex items-center text-blue-600 hover:underline"
-          >
-            <FaFileAlt className="mr-2" /> Lettre de motivation
-          </Link>
-        </div>
+        <p className="flex items-center">
+          <FaPhone className="mr-2" /> +33 6 50 17 47 72
+        </p>
         <p className="flex items-center">
           <FaMapMarkerAlt className="mr-2" /> Nantes, France
         </p>
         <p className="flex items-center">
           <FaGithub className="mr-2" /> github.com/houseOftaz
         </p>
+        <Link
+          href="/letter.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="flex items-center text-blue-600 hover:underline mt-4"
+        >
+          <FaFileAlt className="mr-2" /> Lettre de motivation
+        </Link>
       </div>
     </section>
   );
