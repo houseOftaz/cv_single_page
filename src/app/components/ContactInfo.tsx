@@ -19,16 +19,44 @@ export default function ContactInfo({ title }: ContactInfoProps) {
       </h2>
       <div className="space-y-2 text-gray-600">
         <p className="flex items-center">
-          <FaEnvelope className="mr-2" /> oftaz.code@gmail.com
+          <FaEnvelope className="mr-2" />
+          <a
+            href="mailto:oftaz.code@gmail.com"
+            className="hover:underline"
+            onClick={(e) => {
+              e.preventDefault();
+              window.location.href = "mailto:oftaz.code@gmail.com";
+            }}
+          >
+            oftaz.code@gmail.com
+          </a>
         </p>
         <p className="flex items-center">
-          <FaPhone className="mr-2" /> +33 6 50 17 47 72
+          <FaPhone className="mr-2" />
+          <a
+            href="tel:+33650174772"
+            className="hover:underline"
+            onClick={(e) => {
+              e.preventDefault();
+              window.location.href = "tel:+33650174772";
+            }}
+          >
+            +33 6 50 17 47 72
+          </a>
         </p>
         <p className="flex items-center">
           <FaMapMarkerAlt className="mr-2" /> Nantes, France
         </p>
         <p className="flex items-center">
-          <FaGithub className="mr-2" /> github.com/houseOftaz
+          <FaGithub className="mr-2" />
+          <a
+            href="https://github.com/houseOftaz"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:underline"
+          >
+            github.com/houseOftaz
+          </a>
         </p>
         <Link
           href="/letter.pdf"
